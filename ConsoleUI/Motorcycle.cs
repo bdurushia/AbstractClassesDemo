@@ -14,7 +14,7 @@ namespace ConsoleUI
     */
     public class Motorcycle : Vehicle
     {
-        public bool HasSideCar { get; set; }
+        public bool HasSideCart { get; set; }
         public override void DriveAbstract()
         {
             Console.WriteLine($"{Name} Motorcycle drives on only TWO WHEELS.\n");

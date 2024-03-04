@@ -41,7 +41,7 @@ namespace ConsoleUI
                 Year = "2001",
                 Make = "Suzuki",
                 Model = "GSX 1400",
-                HasSideCar = true
+                HasSideCart = true
             };
 
             Vehicle audiRS5 = new Car()
@@ -59,7 +59,7 @@ namespace ConsoleUI
                 Year = "2016",
                 Make = "Yamaha",
                 Model = "R3",
-                HasSideCar = false
+                HasSideCart = false
             };
 
             /*
