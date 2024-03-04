@@ -26,7 +26,7 @@ namespace ConsoleUI
              * Set the properties values with object initializer syntax
              */
 
-            Car golfR = new Car()
+            var golfR = new Car()
             {
                 Name = "Big Turbo Golf",
                 Year = "2017",
@@ -53,7 +53,7 @@ namespace ConsoleUI
                 HasTrunk = true
             };
 
-            Motorcycle yamR3 = new Motorcycle()
+            var yamR3 = new Motorcycle()
             {
                 Name = "Yamaha Rocket",
                 Year = "2016",
